@@ -2,6 +2,11 @@
 
 Use JPEG to corrupt an image beyond recognition. Works through opening and saving an image with different quality values.
 
+## Requires
+
+* [Python](https://www.python.org/)
+* [Pillow](https://pypi.python.org/pypi/Pillow)
+
 ## `destroyJPEG`
 
 ```python
