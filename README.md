@@ -33,7 +33,7 @@ Saves images `image.d.jpg`, `image.d20.png`, `image.d40.png`, and `image.d60.png
 ### Command line
 
 ```
-python destoyjpeg.py 1 95 image.png 20
+python destroyjpeg.py 1 95 image.png 20
 ```
 
 ```
